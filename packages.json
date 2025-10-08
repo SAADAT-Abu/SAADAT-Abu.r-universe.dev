@@ -3,4 +3,8 @@
     "package": "GIMP",
     "url": "https://github.com/SAADAT-Abu/GIMP"
   }
+  {
+    "package": "Capsule",
+    "url": "https://github.com/SAADAT-Abu/Capsule"
+  }
 ]
